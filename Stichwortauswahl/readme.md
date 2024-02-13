@@ -1,0 +1,1 @@
+Dieses Script erzeugt eine Stichwortauswahl in der Einsatzmaske um den Namen des Einsatzes nach einem definierten Alarmierungs-Standard zu setzen.

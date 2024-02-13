@@ -1,0 +1,1 @@
+Dieses Script klappt bei der Anrufannahme alle Felder auf, die sonst vom Disponenten manuell angeklickt werden müssten. Auch bei neuen Einsätzen wird dieses Script automatisch angewendet. 
