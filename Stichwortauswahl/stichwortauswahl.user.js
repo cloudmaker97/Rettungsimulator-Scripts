@@ -6,6 +6,8 @@
 // @author       Dennis Heinrich, CloudMaker
 // @match        https://rettungssimulator.online/missionNew/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rettungssimulator.online
+// @updateURL    https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Stichwortauswahl/stichwortauswahl.user.js
+// @downloadURL  https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Stichwortauswahl/stichwortauswahl.user.js
 // @grant        none
 // ==/UserScript==
 
