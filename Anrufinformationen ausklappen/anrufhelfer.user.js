@@ -5,8 +5,8 @@
 // @description  Klappt die Anrufinformationen automatisch aus
 // @author       Dennis Heinrich, CloudMaker
 // @match        https://rettungssimulator.online
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Anrufinformationen%20ausklappen/anrufhelfer.user.js
+// @downloadURL  https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Anrufinformationen%20ausklappen/anrufhelfer.user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rettungssimulator.online
 // @grant        none
 // ==/UserScript==
