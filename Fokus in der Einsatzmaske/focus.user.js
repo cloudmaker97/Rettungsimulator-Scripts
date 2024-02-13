@@ -7,6 +7,8 @@
 // @match        https://rettungssimulator.online
 // @match        https://rettungssimulator.online/missionNew/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rettungssimulator.online
+// @updateURL    https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Fokus%20in%20der%20Einsatzmaske/focus.user.js
+// @downloadURL  https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Fokus%20in%20der%20Einsatzmaske/focus.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -22,7 +24,6 @@
                 console.log(inputField)
                 hadFirstFocus = true;
             }
-            
         }
     });
 })();
