@@ -1,4 +1,4 @@
-Dieses Script erzeugt eine Stichwortauswahl in der Einsatzmaske um den Namen des Einsatzes nach einem definierten Alarmierungs-Standard zu setzen.
+Dieses Script erzeugt eine Stichwortauswahl in der Einsatzmaske um den Namen des Einsatzes nach einem definierten Alarmierungs-Standard zu setzen. Eigene Stichwörter können über die Bearbeitung des Scripts gesetzt werden.
 
 ## Ansicht der Stichwortauswahl
 ![2024-02-13 19_33_22-Rettungssimulator - du bist Einsatzleiter in deiner Leitstelle](https://github.com/cloudmaker97/Rettungsimulator-Scripts/assets/4189795/05077598-d360-40ee-a038-1f0860fc1dac)
