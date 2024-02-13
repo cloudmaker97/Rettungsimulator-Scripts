@@ -6,8 +6,8 @@
 // @author       Dennis Heinrich, CloudMaker
 // @match        https://rettungssimulator.online/department/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rettungssimulator.online
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Wachenhelfer%20und%20Einsatzbereitschaft/einsatzbereitschaft.user.js
+// @downloadURL  https://github.com/cloudmaker97/Rettungsimulator-Scripts/raw/main/Wachenhelfer%20und%20Einsatzbereitschaft/einsatzbereitschaft.user.js
 // @grant        none
 // ==/UserScript==
 
