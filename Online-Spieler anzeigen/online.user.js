@@ -107,8 +107,10 @@
     }
 
     createCustomElement();
-    updateUserList();
     setTimeout(function() {
+        updateUserList();
+    }, 100);
+    setInterval(function() {
         updateUserList();
     }, checkIntervalSeconds*1000);
 })();
