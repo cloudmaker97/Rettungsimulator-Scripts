@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Online-Status anzeigen
 // @namespace    https://dennis-heinri.ch
-// @version      0.1.0
+// @version      0.1.1
 // @description  Zeigt den Online-Status von bestimmten Spielern im Werbefeld an
 // @author       Dennis Heinrich, CloudMaker
 // @match        https://rettungssimulator.online
