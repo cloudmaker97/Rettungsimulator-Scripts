@@ -17,7 +17,7 @@
     // Settings
     const userConfig = {
         whitelist: ["Keks19222", "Goose"],
-        blacklist: ["luftimanu"]
+        blacklist: ["Test123"]
     };
 
     // Application Constants
