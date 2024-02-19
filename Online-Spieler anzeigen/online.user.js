@@ -16,8 +16,8 @@
 
     // Settings
     const userConfig = {
-        whitelist: ["CloudMaker"],
-        blacklist: ["CloudMaker"]
+        whitelist: ["CloudMaker1", "CloudMaker2"],
+        blacklist: ["CloudMaker3"]
     };
 
     // Application Constants
