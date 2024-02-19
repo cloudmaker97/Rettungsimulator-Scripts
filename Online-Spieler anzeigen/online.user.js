@@ -42,10 +42,12 @@
 
     // Create the custom element for the online player list
     function createCustomElement() {
+        let targetElement = document.querySelector(targetElementSelector);
         let masterElement = document.createElement("div");
         masterElement.setAttribute("id", newElementId);
         masterElement.setAttribute("style", "display: flex; flex-direction: column");
-        document.querySelector(targetElementSelector).appendChild(masterElement)
+        targetElement.style.overflow = "auto";
+        targetElement.appendChild(masterElement);
     }
 
     // Get if the user is online or not
