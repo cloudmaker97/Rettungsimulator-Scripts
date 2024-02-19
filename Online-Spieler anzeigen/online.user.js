@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Online-Status anzeigen
 // @namespace    https://dennis-heinri.ch
-// @version      0.1.1
+// @version      0.1.2
 // @description  Zeigt den Online-Status von bestimmten Spielern im Werbefeld an
 // @author       Dennis Heinrich, CloudMaker
 // @match        https://rettungssimulator.online
@@ -16,8 +16,8 @@
 
     // Settings
     const userConfig = {
-        whitelist: ["CloudMaker1", "CloudMaker2"],
-        blacklist: ["CloudMaker3"]
+        whitelist: ["Keks19222", "Goose"],
+        blacklist: ["luftimanu"]
     };
 
     // Application Constants
@@ -71,7 +71,6 @@
             addAssociation(user, true, status);
         });
 
-        updateCustomElement();
     }
 
     // Update the player list from the association array and put it in the DOM
@@ -107,9 +106,10 @@
     }
 
     createCustomElement();
-    setTimeout(function() {
-        updateUserList();
-    }, 100);
+    updateUserList();
+    setInterval(function() {
+        updateCustomElement();
+    }, 1000);
     setInterval(function() {
         updateUserList();
     }, checkIntervalSeconds*1000);
